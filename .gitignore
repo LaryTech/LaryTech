@@ -1,0 +1,17 @@
+# Rezultate teste
+testResults.xml
+
+# Output build
+/output/
+/dist/
+
+# VS Code
+.vscode/settings.json
+
+# Fisiere temporare Windows
+Thumbs.db
+Desktop.ini
+*.tmp
+
+# PowerShell
+*.ps1xml
